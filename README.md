@@ -3,6 +3,9 @@
 
 **SmartPlant-ESP32** es un sistema de riego automático basado en **ESP32**, que mide humedad del suelo y luz ambiente en tiempo real, controla una mini bomba mediante un relé y muestra un **Dashboard Web interactivo**, accesible desde cualquier dispositivo sin necesidad de Internet.
 
+![implementación](img/implementación.png)
+
+
 El sistema incluye riego automático, riego manual, gráficos dinámicos, historial de 24 horas, selector de plantas y control no bloqueante de la bomba, todo corriendo sobre un Access Point creado por la propia ESP32.
 
 ---
@@ -30,6 +33,8 @@ Muestra:
 Incluye:
 - Botón de riego manual
 - Selector de planta
+
+![Dashboard](img/dashboard.png)
 
 ---
 
@@ -82,6 +87,9 @@ Relé IN → GPIO 26
 Bomba → Relé NO  
 GND común  
 ```
+
+![Esquemático](img/Esquemático.png)
+
 
 ---
 
