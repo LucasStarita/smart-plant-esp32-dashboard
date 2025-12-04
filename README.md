@@ -144,8 +144,8 @@ SmartPlant-ESP32/
 
 ---
 
-## 👤 Autor
-**Lucas Starita**  
+## 👤 Autores
+**Lucas Starita** y **Sebastián Nehuén Garré** 
 Proyecto desarrollado para la asignatura *Comunicaciones Digitales – UNMDP*.
 
 ---
